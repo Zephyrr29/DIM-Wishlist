@@ -10,6 +10,7 @@ If you need to contact me about anything feel free to DM on Discord, **Zeph#5621
 2) Click on "Wish Lists" on the left side of the menu, or scroll down to the wish lists section
 3) Paste the link to the raw version of wishlist.txt into the URL box
 4) Click "Update Wish List Source"
+
 Done!
 
 Anytime the wish list is updated, simply click the "Update Wish List Source" button again and the wish list will automatically update.
