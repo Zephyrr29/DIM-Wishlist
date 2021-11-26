@@ -12,7 +12,7 @@ Any noteworthy changes made will be listed here in the future
 
 Done!
 
-Anytime the wish list is updated, simply click the "Update Wish List Source" button again and the wish list will automatically update.
+Anytime the wish list is updated, simply clear your wishlists and repeat the above process (It's supposed to be automatic but idk maybe something else I need to setup who knows, not me yet).
 
 ## Wishlist Info:
 
