@@ -2242,6 +2242,92 @@ dimwishlist:item=3743729616&perks=1645158859,957782887
 dimwishlist:item=3743729616&perks=588594999,957782887
 dimwishlist:item=3743729616&perks=588594999,47981717
 
+//IKELOS_SG_v1.0.2
+//notes:PvE Roll
+dimwishlist:item=1096206669&perks=1556840489,1546637391
+dimwishlist:item=1096206669&perks=972757866,1546637391
+dimwishlist:item=1096206669&perks=4071163871,1546637391
+dimwishlist:item=1096206669&perks=1556840489,2360754333
+dimwishlist:item=1096206669&perks=972757866,2360754333
+dimwishlist:item=1096206669&perks=4071163871,2360754333
+//notes:PvP Roll
+dimwishlist:item=1096206669&perks=1467527085,280464955,3511092054
+
+//IKELOS_HC_v1.0.2
+//notes:PvE Roll
+dimwishlist:item=1200824700&perks=1820235745,3425386926
+//notes:High End PvE Roll
+dimwishlist:item=1200824700&perks=3400784728,2213355989
+
+//IKELOS_SR_v1.0.2
+//notes:PvE Roll
+dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989
+dimwishlist:item=1253087083&perks=106909392,3400784728,2213355989
+dimwishlist:item=1253087083&perks=1087426260,3400784728,2213355989
+dimwishlist:item=1253087083&perks=2420895100,3400784728,2213355989
+
+//Widow's Bite
+dimwishlist:item=-1271343896#Very bad sniper rifle
+
+//IKELOS_SMG_v1.0.2
+//notes:PvE Roll
+dimwishlist:item=2222560548&perks=1820235745,3708227201
+dimwishlist:item=2222560548&perks=1820235745,3523296417
+dimwishlist:item=2222560548&perks=4071163871,3708227201
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+//notes:PvP Roll
+dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124
+
+//Death Adder
+//notes:PvE Roll
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+dimwishlist:item=2742490609&perks=1820235745,2848615171
+dimwishlist:item=2742490609&perks=2779035018,1683379515
+dimwishlist:item=2742490609&perks=1820235745,1683379515
+//notes:PvP Roll
+dimwishlist:item=2742490609&perks=1866048759,2846385770
+dimwishlist:item=2742490609&perks=1359896290,2846385770
+
+//First In, Last Out
+//notes:PvE Roll
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+dimwishlist:item=3616586446&perks=3300816228,3708227201
+//notes:PvP Roll
+dimwishlist:item=3616586446&perks=3161816588,47981717
+
+//Negative Space
+//notes:PvE Roll
+dimwishlist:item=3629968765&perks=269888150,1749209109,3913600130
+dimwishlist:item=3629968765&perks=269888150,1749209109,1683379515
+dimwishlist:item=3629968765&perks=269888150,2590710093,1683379515
+dimwishlist:item=3629968765&perks=269888150,1749209109,3708227201
+dimwishlist:item=3629968765&perks=269888150,2590710093,3708227201
+
+//Hoosegow
+//notes:PvE Roll
+dimwishlist:item=3669616453&perks=2869569095,3523296417
+dimwishlist:item=3669616453&perks=3300816228,3523296417
+
+//Quickfang
+//notes:PvE Roll
+dimwishlist:item=2782325300&perks=2590710093,4049631843
+dimwishlist:item=2782325300&perks=2726471870,4049631843
+//notes:PvP Roll
+dimwishlist:item=2782325300&perks=2726471870,354401740
+
+//Eternity's Edge
+//notes:PvE Roll
+dimwishlist:item=2782325301&perks=2726471870,3708227201
+dimwishlist:item=2782325301&perks=1749209109,3708227201
+
+//Crown-Splitter
+//notes:PvE Roll
+dimwishlist:item=2782325301&perks=1749209109,3708227201
+dimwishlist:item=2782325302&perks=2590710093,1546637391
+dimwishlist:item=2782325302&perks=2244851822,1546637391
+
 
 Festival of the Lost
 
