@@ -1,6 +1,7 @@
+If you need to contact me about anything feel free to DM on Discord, **Zeph#5621**
+
 ## Last update: November 26, 2021
 
-If you need to contact me about anything feel free to DM on Discord, **Zeph#5621**
 
 
 ## Wishlist Info:
