@@ -5,8 +5,8 @@ Any noteworthy changes made will be listed below:
 
 ## How to add to DIM:
 
-1) Open the options menu in DIM
-2) Click on "Wish Lists" on the left side of the menu, or scroll down to the wish lists section
+1) Open the [settings menu](https://app.destinyitemmanager.com/settings) in DIM
+2) Click on "Wish Lists" on the left side of the menu, or scroll down to the Wish Lists section
 3) Paste the link to the [raw version of wishlist.txt](https://raw.githubusercontent.com/Zephyrr29/DIM-Wishlist/main/wishlist.txt) into the URL box
 4) Click "Update Wish List Source"
 
