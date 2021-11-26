@@ -1,3 +1,5 @@
+This wishlist is up to date as of November 26th, 2021. 
+
 title:Zeph's DIM Wishlist
 description:Contains rolls for PvE and PvP for all weapons up to and including Season 15. Note that the rolls do not include barrel/scopes, mag, or masterwork unless they are integral to the funcionality of the perk combo. Additionally, Full Auto Trigger System has been omitted on non-shotguns as whether you use it or not is 100% preference. DM Zeph#5621 on Discord regarding any questions/issues.
 
