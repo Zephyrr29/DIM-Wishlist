@@ -1,4 +1,4 @@
-If you need to contact me about anything feel free to DM on Discord, **Zeph#5621**
+If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
 ## Last update: November 26, 2021
 Any noteworthy changes made will be listed here in the future
