@@ -2265,7 +2265,8 @@ dimwishlist:item=1253087083&perks=1087426260,3400784728,2213355989
 dimwishlist:item=1253087083&perks=2420895100,3400784728,2213355989
 
 //Widow's Bite
-dimwishlist:item=-1271343896#Very bad sniper rifle
+//notes:PvP Roll
+dimwishlist:item=1271343896&perks=3161816588,47981717
 
 //IKELOS_SMG_v1.0.2
 //notes:PvE Roll
@@ -2400,3 +2401,27 @@ Solstice of Heroes
 //notes:PvP Roll
 dimwishlist:item=2591111628&perks=1047830412,706527188,957782887
 dimwishlist:item=2591111628&perks=1047830412,3436462433,957782887
+
+
+Exotics
+
+//Hawkmoon
+//notes:PvE/PvP Roll
+dimwishlist:item=3856705927&perks=3436462433
+//notes:PvP Roll
+dimwishlist:item=3856705927&perks=47981717
+dimwishlist:item=3856705927&perks=2846385770
+dimwishlist:item=3856705927&perks=699525795
+
+//Dead Man's Tale
+//notes:PvE Roll
+dimwishlist:item=3654674561&perks=1968497646,1546637391
+dimwishlist:item=3654674561&perks=1820235745
+dimwishlist:item=3654674561&perks=1168162263
+dimwishlist:item=3654674561&perks=1354429876
+//notes:PvE/PvP Roll
+dimwishlist:item=3654674561&perks=1546637391
+//notes:PvP Roll
+dimwishlist:item=3654674561&perks=1561002382,1546637391
+dimwishlist:item=3654674561&perks=957782887
+dimwishlist:item=3654674561&perks=588594999
