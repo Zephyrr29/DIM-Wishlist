@@ -1,7 +1,9 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: November 26, 2021
-Any noteworthy changes made will be listed here in the future
+## Last update: November 29, 2021
+- Fixed a formatting error that caused many notes to contain a random #.
+- Fixed a formatting error that caused all Timelost Found Verdicts to be listed as god rolls with a nonsensical note.
+- Added rolls for Hawkmoon and Dead Man's Tale
 
 ## How to add to DIM:
 
