@@ -994,7 +994,7 @@ dimwishlist:item=2870169846&perks=3436462433,3511092054
 dimwishlist:item=2870169846&perks=3436462433,3108830275
 
 //Coriolis Force
-dimwishlist:item=-3512349612#This thing is so bad please dismantle it
+dimwishlist:item=-3512349612This thing is so bad please dismantle it
 
 //Bonechiller
 //notes:PvE Roll
@@ -1659,7 +1659,7 @@ dimwishlist:item=4292849692&perks=2846385770,1954620775
 dimwishlist:item=4292849692&perks=4134353779,2846385770,1015611457
 
 //Talons of the Eagle
-dimwishlist:item=-1982711279#Pretty bad scout
+dimwishlist:item=-1982711279Pretty bad scout
 
 //Swarm of the Raven
 //notes:Legacy PvE Roll
@@ -1927,7 +1927,7 @@ World Drop
 //Last Perdition
 //notes:General PvE Roll
 dimwishlist:item=188882152&perks=1168162263,3425386926
-dimwishlist:item=188882152&perks=1168162263,1015611457#PvE Roll
+dimwishlist:item=188882152&perks=1168162263,1015611457PvE Roll
 //notes:High End PvE Roll
 dimwishlist:item=188882152&perks=1168162263,2213355989
 //notes:PvP Roll
@@ -1974,7 +1974,7 @@ dimwishlist:item=821154603&perks=1890422124,1015611457
 dimwishlist:item=821154603&perks=1890422124,2458213969
 
 //Bad Omens
-dimwishlist:item=-991314988#Not a good rocket
+dimwishlist:item=-991314988Not a good rocket
 
 //Jian 7 Rifle
 //notes:PvE Roll
