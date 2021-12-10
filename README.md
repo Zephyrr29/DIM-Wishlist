@@ -1,9 +1,7 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: November 29, 2021
-- Fixed a formatting error that caused many notes to contain a random #.
-- Fixed a formatting error that caused all Timelost Found Verdicts to be listed as god rolls with a nonsensical note.
-- Added rolls for Hawkmoon and Dead Man's Tale
+## Last update: December 9th, 2021
+- Added all the weapons added with the 30th Anniversary Pack
 
 ## How to add to DIM:
 
