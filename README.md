@@ -1,7 +1,8 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: December 9th, 2021
-- Added all the weapons added with the 30th Anniversary Pack
+## Last update: December 16th, 2021
+- Added rolls for the Zephyr sword.
+- Updated rolls for the Dawning weapons to account for their new perk pools.
 
 ## How to add to DIM:
 
@@ -16,6 +17,6 @@ To update the wishlist, simply click the "Update Wish List Source" button. Note 
 
 ## Wishlist Info:
 
-- The rolls in this wishlist do not account for barrel, mag, or masterwork unless they are essential to the roll's functionality as I realistically can't account for every ideal barrel, mag, perk and masterwork permutation since that would lead to upwards of tens of thousands of rolls and I'm just one guy (Plus they realistically don't change the roll much anyways besides a few exceptions that *have* been accounted for).
-- Full Auto Trigger System has been excluded on all non-shotguns due to it being totally preference on most guns (Plus it's getting kinda replaced by the Full Auto Retrofit mod soon and will likely be reworked/replaced come Witch Queen anyways).
+- The rolls in this wishlist do not account for barrel, mag, or masterwork unless they are essential to the roll's functionality as I realistically can't account for every ideal barrel, mag, perk and masterwork permutation since that would lead to upwards of tens of thousands of rolls and I'm just one guy (Plus they realistically don't change the roll *that* much anyways besides a few exceptions that *have* been accounted for).
+- Full Auto Trigger System has been excluded on all non-shotguns due to it being totally preference on most guns and easily replaced by the Full Auto Retrofit mod.
 - Legacy refers to a weapon or roll that is currently unobtainable. Legacy weapons may be sold be Xur occasionally, however legacy rolls are likely to remain unobtainable forever as they are often the result of a perk pool change that saw the combo removed entirely.
