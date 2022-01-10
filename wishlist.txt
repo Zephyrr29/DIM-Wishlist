@@ -427,8 +427,6 @@ Fatebringer (Timelost)
 dimwishlist:item=1216319404&perks=3418782618,3824105627
 dimwishlist:item=1216319404&perks=1774574192,3824105627
 dimwishlist:item=1216319404&perks=2726471870,3824105627
-//notes:PvE Roll
-dimwishlist:item=1216319404&perks=3038247973,3824105627
 //notes:High End PvE
 dimwishlist:item=1216319404&perks=3038247973,4104185692
 //notes:PvP Roll
