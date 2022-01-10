@@ -1,8 +1,7 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: December 16th, 2021
-- Added rolls for the Zephyr sword.
-- Updated rolls for the Dawning weapons to account for their new perk pools.
+## Last update: January 9th, 2022
+- Removed Explosive Payload/Firefly as a roll for Fatebringer (Timelost) to allow other rolls to be highlighted.
 
 ## How to add to DIM:
 
