@@ -13,7 +13,7 @@ If you need to contact me about anything feel free to DM me on Discord, **Zeph#5
 
 Done!
 
-To update the wishlist, simply click the "Update Wish List Source" button. Note that this won't work immediately after an update, you'll have to give it like 5 minutes.
+To update the wishlist, simply click the "Update Wish List Source" button. Note that this sometimes won't work immediately after an update, you may have to give it like 5 minutes.
 
 ## Wishlist Info:
 
