@@ -1,7 +1,8 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: January 9th, 2022
-- Removed Explosive Payload/Firefly as a roll for Fatebringer (Timelost) to allow other rolls to be highlighted.
+## Last update: February 26th, 2022
+- Added all weapons added with the Witch Queen.
+- Shifted some rolls to be classified as "Legacy".
 
 ## How to add to DIM:
 
@@ -18,4 +19,5 @@ To update the wishlist, simply click the "Update Wish List Source" button. Note 
 
 - The rolls in this wishlist do not account for barrel, mag, or masterwork unless they are essential to the roll's functionality as I realistically can't account for every ideal barrel, mag, perk and masterwork permutation since that would lead to upwards of tens of thousands of rolls and I'm just one guy (Plus they realistically don't change the roll *that* much anyways besides a few exceptions that *have* been accounted for).
 - Full Auto Trigger System has been excluded on all non-shotguns due to it being totally preference on most guns and easily replaced by the Full Auto Retrofit mod.
-- Legacy refers to a weapon or roll that is currently unobtainable. Legacy weapons may be sold be Xur occasionally, however legacy rolls are likely to remain unobtainable forever as they are often the result of a perk pool change that saw the combo removed entirely.
+- Legacy refers to a roll that is currently unobtainable due to a change in the weapon's perk pool. It may return in the future, it may not.
+- Weapons primarily obtained through crafting such as The Enigma, Osteo Striga, and the class Glaives are omitted due to how easily curated the rolls are making them much more preference based than others.
