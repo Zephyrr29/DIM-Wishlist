@@ -1076,12 +1076,6 @@ dimwishlist:item=2721157927&perks=3301904089,2869569095,2396489472
 //notes:PvE Roll
 dimwishlist:item=3175851496&perks=2869569095,3927722942
 
-//The Enigma
-//notes:PvE Roll
-dimwishlist:item=2595497736&perks=951095735,4104185692
-dimwishlist:item=2595497736&perks=951095735,3108830275
-dimwishlist:item=2595497736&perks=3526486541,2224838837
-
 
 Europa
 
