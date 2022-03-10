@@ -1,8 +1,7 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: February 26th, 2022
-- Added all weapons added with the Witch Queen.
-- Shifted some rolls to be classified as "Legacy".
+## Last update: March 9th, 2022
+- Added all **Vow of the Disciple** weapons and their Adept counterparts.
 
 ## How to add to DIM:
 
