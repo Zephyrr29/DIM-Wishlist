@@ -1,7 +1,8 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: March 9th, 2022
-- Added all **Vow of the Disciple** weapons and their Adept counterparts.
+## Last update: May 20th, 2022
+- Added **The Title**, with 2 listings for a 5/5 roll.
+- Removed PvP rolls from **Lubrae's Ruin**.
 
 ## How to add to DIM:
 
