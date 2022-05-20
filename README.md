@@ -2,7 +2,7 @@ If you need to contact me about anything feel free to DM me on Discord, **Zeph#5
 
 ## Last update: May 20th, 2022
 - Added **The Title**, with 2 listings for a 5/5 roll.
-- Removed PvP rolls from **Lubrae's Ruin**.
+- Removed PvP rolls from **Lubrae's Ruin** and **Lubrae's Ruin (Adept)**.
 
 ## How to add to DIM:
 
