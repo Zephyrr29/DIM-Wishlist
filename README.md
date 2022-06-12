@@ -2,6 +2,7 @@ If you need to contact me about anything feel free to DM me on Discord, **Zeph#5
 
 ## Last update: May 20th, 2022
 - Added rolls for all guns introduced and reprised with Season of the Haunted.
+- Added FTTC/Bait and Switch to **Cataclysmic** and **Cataclysmic (Adept)** (ngl I thought I added these back when BnS got buffed).
 
 ## How to add to DIM:
 
