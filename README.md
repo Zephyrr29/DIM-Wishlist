@@ -1,8 +1,7 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
 ## Last update: May 20th, 2022
-- Added **The Title**, with 2 listings for a 5/5 roll.
-- Removed PvP rolls from **Lubrae's Ruin** and **Lubrae's Ruin (Adept)**.
+- Added rolls for all guns introduced and reprised with Season of the Haunted.
 
 ## How to add to DIM:
 
