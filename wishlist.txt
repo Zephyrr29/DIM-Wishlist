@@ -1,5 +1,5 @@
 title:Zeph's Complete PvE and PvP God Roll List
-description:Contains rolls for PvE and PvP for all weapons up to and including Season 16. Please check the README on GitHub if you have any questions/concerns.
+description:Contains rolls for PvE and PvP for all weapons up to and including Season 17. Please check the README on GitHub if you have any questions/concerns.
 
 
 Season of the Haunted
