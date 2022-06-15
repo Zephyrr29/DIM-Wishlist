@@ -15,7 +15,7 @@ dimwishlist:item=254636484&perks=3523296417,1546637391
 dimwishlist:item=254636484&perks=3523296417,11612903
 
 //Bump in the Night
-//notes:PvE Roll (Run w/ GHorn)
+//notes:PvE Roll (Best w/ GHorn)
 dimwishlist:item=1959650777&perks=3523296417,2978966579
 //notes:PvE Roll
 dimwishlist:item=1959650777&perks=3523296417,4104185692
