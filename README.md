@@ -4,7 +4,7 @@ If you need to contact me about anything feel free to DM me on Discord, **Zeph#5
 - Added rolls for all guns introduced and reprised with Season of the Haunted.
 - Added FTTC/Bait and Switch to **Cataclysmic** and **Cataclysmic (Adept)** (ngl I thought I added these back when BnS got buffed).
 - Shotguns no longer need Full Choke to be a PvP Roll.
-- Removed Full Choke from a Night Watch roll (Yeah idk how that happened either).
+- Removed Full Choke from a **Night Watch** roll (Yeah idk how that happened either).
 
 ## How to add to DIM:
 
