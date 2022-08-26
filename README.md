@@ -1,10 +1,7 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: May 20th, 2022
-- Added rolls for all guns introduced and reprised with Season of the Haunted.
-- Added FTTC/Bait and Switch to **Cataclysmic** and **Cataclysmic (Adept)** (ngl I thought I added these back when BnS got buffed).
-- Shotguns no longer need Full Choke to be a PvP Roll.
-- Removed Full Choke from a **Night Watch** roll (Yeah idk how that happened either).
+## Last update: August 26th, 2022
+- Added all new **Season of Plunder** weapons except for those associated with **King's Fall** as they're still classified.
 
 ## How to add to DIM:
 
