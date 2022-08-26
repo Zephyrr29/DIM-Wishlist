@@ -1805,6 +1805,7 @@ dimwishlist:item=1399243961&perks=3300816228,1546637391
 dimwishlist:item=1399243961&perks=3300816228,1771339417
 //notes:PvP Roll
 dimwishlist:item=1399243961&perks=3436462433,2652708987
+dimwishlist:item=1399243961&perks=1866048759,3673922083
 
 //Reed's Regret (Adept)
 //notes:PvE Roll
@@ -1817,6 +1818,7 @@ dimwishlist:item=2475355656&perks=3300816228,1546637391
 dimwishlist:item=2475355656&perks=3300816228,1771339417
 //notes:PvP Roll
 dimwishlist:item=2475355656&perks=3436462433,2652708987
+dimwishlist:item=2475355656&perks=1866048759,3673922083
 
 //Aisha's Embrace
 //notes:PvE Roll
