@@ -2,6 +2,8 @@ If you need to contact me about anything feel free to DM me on Discord, **Zeph#5
 
 ## Last update: August 26th, 2022
 - Added all new **Season of Plunder** weapons except for those associated with **King's Fall** as they're still classified.
+- Updated the rolls for **Dares of Eternity** weapons to reflect their new perk pools.
+- Assorted minor fixes.
 
 ## How to add to DIM:
 
