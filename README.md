@@ -1,7 +1,9 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: August 26th, 2022
-- Added all new **Season of Plunder** weapons except for those associated with **King's Fall** as they're still classified.
+## Last update: August 30th, 2022
+- Added all new **Season of Plunder** weapons.
+- Added all **King's Fall** weapons as well as their Adept/Harrowed counterparts.
+- Added rolls for **Something New** as well as updated rolls for **Compass Rose** to reflect its new perk pool.
 - Updated the rolls for **Dares of Eternity** weapons to reflect their new perk pools.
 - Assorted minor fixes.
 
