@@ -557,16 +557,148 @@ dimwishlist:item=3937866388&perks=4071163871,3708227201
 King's Fall
 
 //Smite of Merain
+//notes:PvE Roll
+dimwishlist:item=2221264583&perks=3523296417,3824105627
+dimwishlist:item=2221264583&perks=691659142,3824105627
+dimwishlist:item=2221264583&perks=691659142,4082225868
+dimwishlist:item=2221264583&perks=3523296417,11612903
+dimwishlist:item=2221264583&perks=1583705720,4049631843
+//notes:High End PvE Roll
+dimwishlist:item=2221264583&perks=2896038713,4049631843
+dimwishlist:item=2221264583&perks=2896038713,1546637391
+//notes:PvP Roll
+dimwishlist:item=2221264583&perks=588594999,699525795
+
+//Smite of Merain (Harrowed)
+//notes:PvE Roll
+dimwishlist:item=3407395594&perks=3523296417,3824105627
+dimwishlist:item=3407395594&perks=691659142,3824105627
+dimwishlist:item=3407395594&perks=691659142,4082225868
+dimwishlist:item=3407395594&perks=3523296417,11612903
+dimwishlist:item=3407395594&perks=1583705720,4049631843
+//notes:High End PvE Roll
+dimwishlist:item=3407395594&perks=2896038713,4049631843
+dimwishlist:item=3407395594&perks=2896038713,1546637391
+//notes:PvP Roll
+dimwishlist:item=3407395594&perks=588594999,699525795
 
 //Doom of Chelchis
+//notes:PvE Roll
+dimwishlist:item=1937552980&perks=3824105627,4104185692
+dimwishlist:item=1937552980&perks=3824105627,4049631843
+dimwishlist:item=1937552980&perks=3824105627,2848615171
+dimwishlist:item=1937552980&perks=3824105627,3108830275
+//notes:High End PvE Roll
+dimwishlist:item=1937552980&perks=1048183818,4104185692
+dimwishlist:item=1937552980&perks=1546637391,4104185692
+//notes:Void Synergy Roll
+dimwishlist:item=1937552980&perks=3824105627,776531651
+//notes:PvP Roll
+dimwishlist:item=1937552980&perks=3038247973,699525795
+
+//Doom of Chelchis (Harrowed)
+//notes:PvE Roll
+dimwishlist:item=1184692845&perks=3824105627,4104185692
+dimwishlist:item=1184692845&perks=3824105627,4049631843
+dimwishlist:item=1184692845&perks=3824105627,2848615171
+dimwishlist:item=1184692845&perks=3824105627,3108830275
+//notes:High End PvE Roll
+dimwishlist:item=1184692845&perks=1048183818,4104185692
+dimwishlist:item=1184692845&perks=1546637391,4104185692
+//notes:Void Synergy Roll
+dimwishlist:item=1184692845&perks=3824105627,776531651
+//notes:PvP Roll
+dimwishlist:item=1184692845&perks=3038247973,699525795
 
 //Zaouli's Bane
+//notes:PvE Roll
+dimwishlist:item=431721920&perks=3038247973,3824105627
+//notes:High End PvE Roll
+dimwishlist:item=431721920&perks=3038247973,4049631843
+dimwishlist:item=431721920&perks=3038247973,2896038713
+//notes:Solar Synergy Roll
+dimwishlist:item=431721920&perks=3038247973,4293542123
+//notes:PvP Roll
+dimwishlist:item=431721920&perks=3038247973,699525795
+dimwishlist:item=431721920&perks=47981717,699525795
+
+//Zaouli's Bane (Harrowed)
+//notes:PvE Roll
+dimwishlist:item=291092617&perks=3038247973,3824105627
+//notes:High End PvE Roll
+dimwishlist:item=291092617&perks=3038247973,4049631843
+dimwishlist:item=291092617&perks=3038247973,2896038713
+//notes:Solar Synergy Roll
+dimwishlist:item=291092617&perks=3038247973,4293542123
+//notes:PvP Roll
+dimwishlist:item=291092617&perks=3038247973,699525795
+dimwishlist:item=291092617&perks=47981717,699525795
 
 //Midha's Reckoning
+//notes:PvE Roll
+dimwishlist:item=3969066556&perks=1799762209,1427256713
+dimwishlist:item=3969066556&perks=2869569095,1427256713
+dimwishlist:item=3969066556&perks=3108830275,1427256713
+//notes:PvP Roll
+dimwishlist:item=3969066556&perks=1866048759,1754714824
+dimwishlist:item=3969066556&perks=1866048759,1890422124
+
+//Midha's Reckoning (Harrowed)
+//notes:PvE Roll
+dimwishlist:item=3904516037&perks=1799762209,1427256713
+dimwishlist:item=3904516037&perks=2869569095,1427256713
+dimwishlist:item=3904516037&perks=3108830275,1427256713
+//notes:PvP Roll
+dimwishlist:item=3904516037&perks=1866048759,1754714824
+dimwishlist:item=3904516037&perks=1866048759,1890422124
 
 //Defiance of Yasmin
+//notes:PvE Roll
+dimwishlist:item=3228096719&perks=1556840489,1771339417
+dimwishlist:item=3228096719&perks=1556840489,1546637391
+dimwishlist:item=3228096719&perks=2621346526,1771339417
+dimwishlist:item=3228096719&perks=2621346526,1546637391
+dimwishlist:item=3228096719&perks=1774574192,1771339417
+dimwishlist:item=3228096719&perks=1774574192,1546637391
+//notes:PvP Roll
+dimwishlist:item=3228096719&perks=957782887,588594999
+dimwishlist:item=3228096719&perks=957782887,47981717
+dimwishlist:item=3228096719&perks=2866798147,588594999
+dimwishlist:item=3228096719&perks=2866798147,47981717
+
+//Defiance of Yasmin (Harrowed)
+//notes:PvE Roll
+dimwishlist:item=3503019618&perks=1556840489,1771339417
+dimwishlist:item=3503019618&perks=1556840489,1546637391
+dimwishlist:item=3503019618&perks=2621346526,1771339417
+dimwishlist:item=3503019618&perks=2621346526,1546637391
+dimwishlist:item=3503019618&perks=1774574192,1771339417
+dimwishlist:item=3503019618&perks=1774574192,1546637391
+//notes:PvP Roll
+dimwishlist:item=3503019618&perks=957782887,588594999
+dimwishlist:item=3503019618&perks=957782887,47981717
+dimwishlist:item=3503019618&perks=2866798147,588594999
+dimwishlist:item=3503019618&perks=2866798147,47981717
 
 //Qullim's Terminus
+//notes:PvE Roll
+dimwishlist:item=1321506184&perks=3108830275,3824105627
+dimwishlist:item=1321506184&perks=3108830275,557221067
+dimwishlist:item=1321506184&perks=1583705720,3824105627
+dimwishlist:item=1321506184&perks=1583705720,557221067
+//notes:Stasis Synergy Roll
+dimwishlist:item=1321506184&perks=3108830275,124408337
+dimwishlist:item=1321506184&perks=1583705720,124408337
+
+//Qullim's Terminus (Harrowed)
+//notes:PvE Roll
+dimwishlist:item=3248429089&perks=3108830275,3824105627
+dimwishlist:item=3248429089&perks=3108830275,557221067
+dimwishlist:item=3248429089&perks=1583705720,3824105627
+dimwishlist:item=3248429089&perks=1583705720,557221067
+//notes:Stasis Synergy Roll
+dimwishlist:item=3248429089&perks=3108830275,124408337
+dimwishlist:item=3248429089&perks=1583705720,124408337
 
 
 Vow of the Disciple
@@ -3571,12 +3703,22 @@ dimwishlist:item=3400256755&perks=2726471870,438098033
 dimwishlist:item=3400256755&perks=3705817207,438098033
 
 
-Solstice of Heroes
+Solstice
 
 //Compass Rose
+//notes:PvE Roll
+dimwishlist:item=2591111628&perks=1556840489,2360754333
+dimwishlist:item=2591111628&perks=1556840489,1546637391
 //notes:PvP Roll
 dimwishlist:item=2591111628&perks=706527188,957782887
 dimwishlist:item=2591111628&perks=3436462433,957782887
+dimwishlist:item=2591111628&perks=2451262963,3673922083
+
+//Something New
+//notes:PvE Roll
+dimwishlist:item=1856262127&perks=3592538738,3523296417
+//notes:Stasis Synergy Roll
+dimwishlist:item=1856262127&perks=3592538738,124408337
 
 
 Guardian Games
