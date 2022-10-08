@@ -591,6 +591,7 @@ dimwishlist:item=1937552980&perks=3824105627,3108830275
 //notes:High End PvE Roll
 dimwishlist:item=1937552980&perks=1048183818,4104185692
 dimwishlist:item=1937552980&perks=1546637391,4104185692
+dimwishlist:item=1937552980&perks=3038247973,4104185692
 //notes:Void Synergy Roll
 dimwishlist:item=1937552980&perks=3824105627,776531651
 //notes:PvP Roll
@@ -605,6 +606,7 @@ dimwishlist:item=1184692845&perks=3824105627,3108830275
 //notes:High End PvE Roll
 dimwishlist:item=1184692845&perks=1048183818,4104185692
 dimwishlist:item=1184692845&perks=1546637391,4104185692
+dimwishlist:item=1184692845&perks=3038247973,4104185692
 //notes:Void Synergy Roll
 dimwishlist:item=1184692845&perks=3824105627,776531651
 //notes:PvP Roll
