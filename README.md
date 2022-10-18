@@ -1,11 +1,8 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
 ## Last update: August 30th, 2022
-- Added all new **Season of Plunder** weapons.
-- Added all **King's Fall** weapons as well as their Adept/Harrowed counterparts.
-- Added rolls for **Something New** as well as updated rolls for **Compass Rose** to reflect its new perk pool.
-- Updated the rolls for **Dares of Eternity** weapons to reflect their new perk pools.
-- Assorted minor fixes.
+- Updated rolls for **Jurassic Green** and **BrayTech Werewolf** to reflect their new perk pools. **Horror Story** seems to have missed out on the updates though as it lacks the new Origin Trait and has no updates.
+- **Mechabre** was already somewhat visible in the API so it's rolls are already added. Just adding this note for clarity's sake though.
 
 ## How to add to DIM:
 
