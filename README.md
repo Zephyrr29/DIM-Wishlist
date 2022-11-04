@@ -1,6 +1,6 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: August 30th, 2022
+## Last update: October 18th, 2022
 - Updated rolls for **Jurassic Green** and **BrayTech Werewolf** to reflect their new perk pools. **Horror Story** seems to have missed out on the updates though as it lacks the new Origin Trait and has no updates.
 - **Mechabre** was already somewhat visible in the API so it's rolls are already added. Just adding this note for clarity's sake though.
 
