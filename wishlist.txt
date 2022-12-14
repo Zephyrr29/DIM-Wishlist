@@ -1,6 +1,76 @@
 title:Zeph's Complete PvE and PvP God Roll List
 description:Contains rolls for PvE and PvP for all weapons up to and including Season 18. Please check the README on GitHub if you have any questions/concerns.
 
+Season of the Seraph
+
+//Disparity
+//notes:PvE Roll
+dimwishlist:item=1751893422&perks=1168162263,4104185692
+dimwishlist:item=1751893422&perks=1168162263,4049631843
+dimwishlist:item=1751893422&perks=247725512,4104185692
+dimwishlist:item=1751893422&perks=247725512,4049631843
+//notes:PvE/PvP Roll
+dimwishlist:item=1751893422&perks=247725512,1015611457
+dimwishlist:item=1751893422&perks=1168162263,1015611457
+//notes:PvP Roll
+dimwishlist:item=1751893422&perks=588594999,460017080
+dimwishlist:item=1751893422&perks=588594999,1015611457
+dimwishlist:item=1751893422&perks=588594999,3047969693
+dimwishlist:item=1751893422&perks=699525795,460017080
+dimwishlist:item=1751893422&perks=699525795,1015611457
+dimwishlist:item=1751893422&perks=699525795,3047969693
+dimwishlist:item=1751893422&perks=247725512,3047969693
+dimwishlist:item=1751893422&perks=247725512,3047969693
+//notes:Stasis Synergy Roll
+dimwishlist:item=1751893422&perks=1168162263,124408337
+dimwishlist:item=1751893422&perks=247725512,124408337
+
+//Tripwire Canary
+//notes:PvE Roll
+dimwishlist:item=3849444474&perks=201365942,3365897133
+dimwishlist:item=3849444474&perks=201365942,4104185692
+dimwishlist:item=3849444474&perks=201365942,2652708987
+dimwishlist:item=3849444474&perks=247725512,2652708987
+dimwishlist:item=3849444474&perks=2848615171,2652708987
+
+//Judgment of Kelgorath
+//notes:PvE Roll
+dimwishlist:item=2978226043&perks=3643424744,1782407750
+dimwishlist:item=2978226043&perks=3643424744,3592538738
+dimwishlist:item=2978226043&perks=3523296417,1782407750
+dimwishlist:item=2978226043&perks=3523296417,2224838837
+dimwishlist:item=2978226043&perks=3523296417,3592538738
+//notes:Solar Synergy Roll
+dimwishlist:item=2978226043&perks=3643424744,4293542123
+dimwishlist:item=2978226043&perks=3523296417,4293542123
+//notes:PvE/PvP Roll
+dimwishlist:item=2978226043&perks=3643424744,2224838837
+//notes:PvP Roll
+dimwishlist:item=2978226043&perks=3096702027,2224838837
+dimwishlist:item=2978226043&perks=3643424744,951095735
+dimwishlist:item=2978226043&perks=3096702027,951095735
+
+//Path of Least Resistance
+//notes:PvE Roll
+dimwishlist:item=2827764482&perks=1820235745,4049631843
+dimwishlist:item=2827764482&perks=1583705720,2173046394
+dimwishlist:item=2827764482&perks=1583705720,4049631843
+
+//Fire and Forget
+//notes:PvE Roll
+dimwishlist:item=2272041093&perks=2869569095,4104185692
+dimwishlist:item=2272041093&perks=2869569095,2896038713
+dimwishlist:item=2272041093&perks=2869569095,1546637391
+
+//Retrofit Escapade
+//notes:PvE Roll
+dimwishlist:item=3103325054&perks=2869569095,4104185692
+dimwishlist:item=3103325054&perks=2869569095,4049631843
+dimwishlist:item=3103325054&perks=2869569095,365154968
+dimwishlist:item=3103325054&perks=1583705720,4104185692
+dimwishlist:item=3103325054&perks=1583705720,4049631843
+dimwishlist:item=3103325054&perks=1354429876,365154968
+
 
 Season of Plunder
 
@@ -989,55 +1059,60 @@ Deep Stone Crypt
 
 Trustee
 //notes:PvE Roll
-dimwishlist:item=1392919471&perks=3436462433,3201496230
-dimwishlist:item=1392919471&perks=3436462433,2213355989
-dimwishlist:item=1392919471&perks=3436462433,3592538738
+dimwishlist:item=1392919471&perks=247725512,2896038713
+dimwishlist:item=1392919471&perks=1523832109,2896038713
+//notes:Solar Synergy Roll
+dimwishlist:item=1392919471&perks=1523832109,4293542123
+dimwishlist:item=1392919471&perks=247725512,4293542123
 //notes:PvP Roll
 dimwishlist:item=1392919471&perks=2450788523,2213355989
+//notes:Legacy PvP Roll
 dimwishlist:item=1392919471&perks=2450788523,699525795
 
 Succession
 //notes:PvE Roll
 dimwishlist:item=2990047042&perks=106909392,1523832109,1546637391
 dimwishlist:item=2990047042&perks=2420895100,1523832109,1546637391
-dimwishlist:item=2990047042&perks=1556840489,1546637391
+dimwishlist:item=2990047042&perks=106909392,1523832109,1771339417
+dimwishlist:item=2990047042&perks=2420895100,1523832109,1771339417
 //notes:PvP Roll
 dimwishlist:item=2990047042&perks=588594999,957782887
-dimwishlist:item=2990047042&perks=2450788523,957782887
 dimwishlist:item=2990047042&perks=2866798147,957782887
 dimwishlist:item=2990047042&perks=1523832109,957782887
+//notes:Legacy PvP Roll
+dimwishlist:item=2990047042&perks=2450788523,957782887
 
 Posterity
-//notes:General PvE Roll
+//notes:PvE Roll
+dimwishlist:item=3281285075&perks=247725512,4104185692
+dimwishlist:item=3281285075&perks=1523832109,4104185692
+dimwishlist:item=3281285075&perks=2173046394,4104185692
+dimwishlist:item=3281285075&perks=3592538738,4104185692
+//notes:PvE/PvP Roll
+dimwishlist:item=3281285075&perks=1523832109,2896038713
+//notes:Legacy PvE Roll
+dimwishlist:item=3281285075&perks=247725512,4049631843
 dimwishlist:item=3281285075&perks=2779035018,3425386926
 dimwishlist:item=3281285075&perks=2779035018,4049631843
-//notes:PvE Roll
-dimwishlist:item=3281285075&perks=247725512,4049631843
-//notes:High End PvE Roll
-dimwishlist:item=3281285075&perks=1354429876,3201496230
-dimwishlist:item=3281285075&perks=247725512,3201496230
 
 Bequest
 //notes:PvE Roll
-dimwishlist:item=3366545721&perks=2726471870,1685431615
-dimwishlist:item=3366545721&perks=2590710093,1685431615
-dimwishlist:item=3366545721&perks=1749209109,1685431615
 dimwishlist:item=3366545721&perks=1749209109,3708227201
 dimwishlist:item=3366545721&perks=2726471870,3708227201
-dimwishlist:item=3366545721&perks=2590710093,3708227201
+dimwishlist:item=3366545721&perks=3108830275,3708227201
+dimwishlist:item=3366545721&perks=3592538738,3708227201
 
 Commemoration
 //notes:PvE Roll
-dimwishlist:item=4230965989&perks=1087426260,1523832109,3425386926
-dimwishlist:item=4230965989&perks=106909392,1523832109,3425386926
-dimwishlist:item=4230965989&perks=2420895100,1523832109,3425386926
-dimwishlist:item=4230965989&perks=2779035018,3425386926
-//notes:General PvE Roll
-dimwishlist:item=4230965989&perks=1087426260,1523832109,2848615171
-dimwishlist:item=4230965989&perks=106909392,1523832109,2848615171
-dimwishlist:item=4230965989&perks=2420895100,1523832109,2848615171
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,557221067
+dimwishlist:item=4230965989&perks=2848615171,557221067
+dimwishlist:item=4230965989&perks=1820235745,557221067
+//notes:Legacy PvE Roll
+dimwishlist:item=4230965989&perks=1523832109,2848615171
 dimwishlist:item=4230965989&perks=2779035018,2848615171
-//notes:PvP Roll
+dimwishlist:item=4230965989&perks=2779035018,3425386926
+//notes:Legacy PvP Roll
 dimwishlist:item=4230965989&perks=1359896290,588594999
 dimwishlist:item=4230965989&perks=1359896290,1645158859
 
@@ -1045,10 +1120,17 @@ Heritage
 //notes:PvE Roll
 dimwishlist:item=4248569242&perks=1523832109,469285294
 dimwishlist:item=4248569242&perks=3300816228,469285294
+dimwishlist:item=4248569242&perks=1523832109,2896038713
 //notes:PvP Roll
 dimwishlist:item=4248569242&perks=3161816588,957782887
 dimwishlist:item=4248569242&perks=3161816588,588594999
 dimwishlist:item=4248569242&perks=3161816588,2450788523
+dimwishlist:item=4248569242&perks=3161816588,4082225868
+dimwishlist:item=4248569242&perks=4071163871,2450788523
+dimwishlist:item=4248569242&perks=4071163871,957782887
+dimwishlist:item=4248569242&perks=4071163871,588594999
+dimwishlist:item=4248569242&perks=4071163871,4082225868
+dimwishlist:item=4248569242&perks=1866048759,2416023159
 
 
 Garden of Salvation
@@ -2080,6 +2162,56 @@ dimwishlist:item=2307365&perks=1428297954,2451262963
 dimwishlist:item=2307365&perks=1428297954,47981717
 dimwishlist:item=2307365&perks=1428297954,4082225868
 
+//Exalted Truth
+//notes:PvE Roll
+dimwishlist:item=3102421004&perks=1168162263,3425386926
+dimwishlist:item=3102421004&perks=1168162263,1015611457
+dimwishlist:item=3102421004&perks=1168162263,4104185692
+//notes:High End PvE Roll
+dimwishlist:item=3102421004&perks=1870851715,4104185692
+//notes:PvP Roll
+dimwishlist:item=3102421004&perks=2846385770,699525795
+dimwishlist:item=3102421004&perks=2846385770,1195158366
+dimwishlist:item=3102421004&perks=2450788523,1195158366
+//notes:PvP Void Synergy Roll
+dimwishlist:item=3102421004&perks=2846385770,776531651
+
+//Exalted Truth (Adept)
+//notes:PvE Roll
+dimwishlist:item=3920882229&perks=1168162263,3425386926
+dimwishlist:item=3920882229&perks=1168162263,1015611457
+dimwishlist:item=3920882229&perks=1168162263,4104185692
+//notes:High End PvE Roll
+dimwishlist:item=3920882229&perks=1870851715,4104185692
+//notes:PvP Roll
+dimwishlist:item=3920882229&perks=2846385770,699525795
+dimwishlist:item=3920882229&perks=2846385770,1195158366
+dimwishlist:item=3920882229&perks=2450788523,1195158366
+//notes:PvP Void Synergy Roll
+dimwishlist:item=3920882229&perks=2846385770,776531651
+
+//Unwavering Duty
+//notes:PvE Roll
+dimwishlist:item=3624844116&perks=2869569095,4293542123
+dimwishlist:item=3624844116&perks=1820235745,557221067
+dimwishlist:item=3624844116&perks=1820235745,4293542123
+//notes:High End PvE Roll
+dimwishlist:item=3624844116&perks=2869569095,1048183818
+//notes:PvP Roll
+dimwishlist:item=3624844116&perks=1359896290,1890422124
+dimwishlist:item=3624844116&perks=2450788523,1890422124
+
+//Unwavering Duty (Adept)
+//notes:PvE Roll
+dimwishlist:item=2759251821&perks=2869569095,4293542123
+dimwishlist:item=2759251821&perks=1820235745,557221067
+dimwishlist:item=2759251821&perks=1820235745,4293542123
+//notes:High End PvE Roll
+dimwishlist:item=2759251821&perks=2869569095,1048183818
+//notes:PvP Roll
+dimwishlist:item=2759251821&perks=1359896290,1890422124
+dimwishlist:item=2759251821&perks=2450788523,1890422124
+
 
 Nightfalls
 
@@ -2221,17 +2353,29 @@ dimwishlist:item=2147010335&perks=3643424744,2848615171
 //notes:General PvE Roll
 dimwishlist:item=4281371574&perks=1820235745,3824105627
 dimwishlist:item=4281371574&perks=247725512,3824105627
-dimwishlist:item=4281371574&perks=4252909580,3824105627
-dimwishlist:item=4281371574&perks=3436462433,3824105627
 //notes:PvE Roll
 dimwishlist:item=4281371574&perks=247725512,3038247973
-dimwishlist:item=4281371574&perks=3436462433,3038247973
-dimwishlist:item=4281371574&perks=247725512,4049631843
-dimwishlist:item=4281371574&perks=3436462433,4049631843
 //notes:PvP Roll
-dimwishlist:item=4281371574&perks=588594999,2551157718
 dimwishlist:item=4281371574&perks=247725512,2551157718
 dimwishlist:item=4281371574&perks=3436462433,2551157718
+//notes:Legacy General PvE Roll
+dimwishlist:item=4281371574&perks=4252909580,3824105627
+//notes:Legacy PvE Roll
+dimwishlist:item=4281371574&perks=247725512,4049631843
+//notes:Legacy PvP Roll
+dimwishlist:item=4281371574&perks=588594999,2551157718
+
+//Hung Jury SR4 (v2)
+//notes:General PvE Roll
+dimwishlist:item=772231794&perks=1820235745,3824105627
+dimwishlist:item=772231794&perks=247725512,3824105627
+//notes:PvE Roll
+dimwishlist:item=772231794&perks=247725512,3038247973
+dimwishlist:item=772231794&perks=247725512,4104185692
+//notes:PvP Roll
+dimwishlist:item=772231794&perks=247725512,2551157718
+dimwishlist:item=772231794&perks=3436462433,2551157718
+dimwishlist:item=772231794&perks=2866798147,2551157718
 
 //Hung Jury SR4 (Adept)
 //notes:General PvE Roll
@@ -2248,6 +2392,18 @@ dimwishlist:item=681067419&perks=3436462433,4049631843
 dimwishlist:item=681067419&perks=588594999,2551157718
 dimwishlist:item=681067419&perks=247725512,2551157718
 dimwishlist:item=681067419&perks=3436462433,2551157718
+
+//Hung Jury SR4 (Adept) (v2)
+//notes:General PvE Roll
+dimwishlist:item=4074251943&perks=1820235745,3824105627
+dimwishlist:item=4074251943&perks=247725512,3824105627
+//notes:PvE Roll
+dimwishlist:item=4074251943&perks=247725512,3038247973
+dimwishlist:item=4074251943&perks=247725512,4104185692
+//notes:PvP Roll
+dimwishlist:item=4074251943&perks=247725512,2551157718
+dimwishlist:item=4074251943&perks=3436462433,2551157718
+dimwishlist:item=4074251943&perks=2866798147,2551157718
 
 //The Comedian
 //notes:PvE Roll
@@ -2406,6 +2562,28 @@ dimwishlist:item=912150785&perks=691659142,4293542123
 //notes:PvP Roll
 dimwishlist:item=912150785&perks=4071163871,2451262963
 dimwishlist:item=912150785&perks=4071163871,4082225868
+
+//Wendigo GL3
+//notes:PvE Roll
+dimwishlist:item=3183283212&perks=3301904089,3300816228,3194351027
+dimwishlist:item=3183283212&perks=3301904089,2869569095,3194351027
+dimwishlist:item=3183283212&perks=3301904089,2396489472,3194351027
+dimwishlist:item=3183283212&perks=3301904089,3300816228,2888557110
+dimwishlist:item=3183283212&perks=3301904089,2869569095,2888557110
+dimwishlist:item=3183283212&perks=3301904089,3300816228,3751912585
+//notes:PvP Roll
+dimwishlist:item=3183283212&perks=409831596,951095735,2610012052
+
+//Wendigo GL3 (Adept)
+//notes:PvE Roll
+dimwishlist:item=555148853&perks=3301904089,3300816228,3194351027
+dimwishlist:item=555148853&perks=3301904089,2869569095,3194351027
+dimwishlist:item=555148853&perks=3301904089,2396489472,3194351027
+dimwishlist:item=555148853&perks=3301904089,3300816228,2888557110
+dimwishlist:item=555148853&perks=3301904089,2869569095,2888557110
+dimwishlist:item=555148853&perks=3301904089,3300816228,3751912585
+//notes:PvP Roll
+dimwishlist:item=555148853&perks=409831596,951095735,2610012052
 
 
 Iron Banner
@@ -2644,13 +2822,27 @@ dimwishlist:item=1532276803&perks=2846385770,1365187766
 dimwishlist:item=1532276803&perks=2846385770,591790007
 dimwishlist:item=1532276803&perks=2846385770,699525795
 
-/Roar of the Bear
-//PvE Roll
+//Roar of the Bear
+//notes:PvE Roll
 dimwishlist:item=4009352833&perks=2869569095,3300816228
 dimwishlist:item=4009352833&perks=2869569095,3927722942
 dimwishlist:item=4009352833&perks=2869569095,1546637391
 dimwishlist:item=4009352833&perks=3523296417,1546637391
 dimwishlist:item=4009352833&perks=3523296417,3927722942
+
+//Dark Decider
+//notes:PvE Roll
+dimwishlist:item=540880995&perks=1820235745,2610012052
+dimwishlist:item=540880995&perks=1820235745,2848615171
+//notes:PvP Roll
+dimwishlist:item=540880995&perks=1359896290,2846385770
+dimwishlist:item=540880995&perks=11551321,2846385770
+
+//Gunnora's Axe
+//notes:PvP Roll
+dimwishlist:item=487361141&perks=4071163871,47981717
+dimwishlist:item=487361141&perks=1866048759,47981717
+dimwishlist:item=487361141&perks=588594999,47981717
 
 
 Strike Playlist
@@ -2778,6 +2970,25 @@ dimwishlist:item=2671639706&perks=2451262963,47981717
 dimwishlist:item=2671639706&perks=1428297954,47981717
 dimwishlist:item=2671639706&perks=2451262963,3511092054
 dimwishlist:item=2671639706&perks=1428297954,3511092054
+
+//Prolonged Engagement
+//notes:PvE Roll
+dimwishlist:item=2349907931&perks=1820235745,4104185692
+dimwishlist:item=2349907931&perks=1820235745,3708227201
+dimwishlist:item=2349907931&perks=1820235745,4049631843
+dimwishlist:item=2349907931&perks=2779035018,4104185692
+dimwishlist:item=2349907931&perks=2779035018,3708227201
+dimwishlist:item=2349907931&perks=2779035018,2458213969
+dimwishlist:item=2349907931&perks=2779035018,4049631843
+//notes:PvP Roll
+dimwishlist:item=2349907931&perks=1359896290,2846385770
+dimwishlist:item=2349907931&perks=1359896290,1195158366
+dimwishlist:item=2349907931&perks=699525795,1195158366
+dimwishlist:item=2349907931&perks=699525795,2846385770
+dimwishlist:item=2349907931&perks=2450788523,2846385770
+dimwishlist:item=2349907931&perks=2450788523,1195158366
+dimwishlist:item=2349907931&perks=2450788523,2458213969
+dimwishlist:item=2349907931&perks=2450788523,3673922083
 
 
 Crucible
@@ -2916,6 +3127,15 @@ dimwishlist:item=2988121501&perks=1428297954,1015611457
 dimwishlist:item=2988121501&perks=1428297954,2846385770
 dimwishlist:item=2988121501&perks=1428297954,1365187766
 
+//Blowout
+//notes:PvE Roll
+dimwishlist:item=1903182562&perks=2869569095,3194351027
+dimwishlist:item=1903182562&perks=2869569095,1546637391
+dimwishlist:item=1903182562&perks=2869569095,4104185692
+dimwishlist:item=1903182562&perks=3523296417,1546637391
+dimwishlist:item=1903182562&perks=3523296417,3194351027
+dimwishlist:item=1903182562&perks=3523296417,4104185692
+
 
 Gambit
 
@@ -3037,8 +3257,36 @@ dimwishlist:item=1141927949&perks=1428297954,3047969693
 dimwishlist:item=1141927949&perks=1428297954,1365187766
 dimwishlist:item=1141927949&perks=1428297954,2458213969
 
+//Albruna-D
+//notes:PvE Roll
+dimwishlist:item=676270382&perks=3400784728,1771339417
+dimwishlist:item=676270382&perks=3400784728,1546637391
+dimwishlist:item=676270382&perks=3038247973,1771339417
+dimwishlist:item=676270382&perks=3038247973,1546637391
+//notes:PvP Roll
+dimwishlist:item=676270382&perks=3511092054,47981717
+dimwishlist:item=676270382&perks=3511092054,957782887
+dimwishlist:item=676270382&perks=3038247973,957782887
+dimwishlist:item=676270382&perks=3436462433,957782887
 
-World
+
+Competitive
+
+//Rose
+//notes:PvE/PvP Roll
+dimwishlist:item=882778888&perks=247725512,3038247973
+//notes:PvP Roll
+dimwishlist:item=882778888&perks=588594999,2846385770
+dimwishlist:item=882778888&perks=3511092054,2846385770
+dimwishlist:item=882778888&perks=3161816588,2846385770
+dimwishlist:item=882778888&perks=1428297954,2846385770
+dimwishlist:item=882778888&perks=588594999,47981717
+dimwishlist:item=882778888&perks=3161816588,47981717
+dimwishlist:item=882778888&perks=588594999,3038247973
+dimwishlist:item=882778888&perks=3161816588,3038247973
+
+
+World Drop
 
 //Last Perdition
 //notes:General PvE Roll
@@ -3356,42 +3604,93 @@ dimwishlist:item=3743729616&perks=588594999,47981717
 
 //IKELOS_SG_v1.0.2
 //notes:PvE Roll
+dimwishlist:item=1096206669&perks=4071163871,1546637391
+dimwishlist:item=1096206669&perks=4071163871,2360754333
+//notes:Legacy PvE Roll
 dimwishlist:item=1096206669&perks=1556840489,1546637391
 dimwishlist:item=1096206669&perks=972757866,1546637391
-dimwishlist:item=1096206669&perks=4071163871,1546637391
 dimwishlist:item=1096206669&perks=1556840489,2360754333
 dimwishlist:item=1096206669&perks=972757866,2360754333
-dimwishlist:item=1096206669&perks=4071163871,2360754333
+
+//IKELOS_SG_v1.0.3
+//notes:PvE Roll
+dimwishlist:item=1168625549&perks=4071163871,1546637391
+dimwishlist:item=1168625549&perks=4071163871,2360754333
+dimwishlist:item=1168625549&perks=1631667848,1546637391
+dimwishlist:item=1168625549&perks=1631667848,2679249093
+dimwishlist:item=1168625549&perks=1631667848,2360754333
+dimwishlist:item=1168625549&perks=691659142,1546637391
+dimwishlist:item=1168625549&perks=691659142,2360754333
 //notes:PvP Roll
-dimwishlist:item=1096206669&perks=1467527085,280464955,3511092054
+dimwishlist:item=1168625549&perks=466087222,4071163871,4082225868
+dimwishlist:item=1168625549&perks=4071163871,4082225868
 
 //IKELOS_HC_v1.0.2
 //notes:PvE Roll
 dimwishlist:item=1200824700&perks=1820235745,3425386926
-//notes:High End PvE Roll
-dimwishlist:item=1200824700&perks=3400784728,2213355989
+
+//IKELOS_HC_v1.0.3
+//notes:PvE Roll
+dimwishlist:item=1731355324&perks=1820235745,3425386926
+dimwishlist:item=1731355324&perks=1820235745,4104185692
+dimwishlist:item=1731355324&perks=247725512,4104185692
+dimwishlist:item=1731355324&perks=247725512,3425386926
+dimwishlist:item=1731355324&perks=1583705720,3425386926
+dimwishlist:item=1731355324&perks=1583705720,4104185692
+dimwishlist:item=1731355324&perks=1583705720,4049631843
 
 //IKELOS_SR_v1.0.2
 //notes:PvE Roll
 dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989
 dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989
 dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989
+//notes:Legacy PvE Roll
 dimwishlist:item=1253087083&perks=106909392,3400784728,2213355989
 dimwishlist:item=1253087083&perks=1087426260,3400784728,2213355989
 dimwishlist:item=1253087083&perks=2420895100,3400784728,2213355989
 
-//Widow's Bite
+//IKELOS_SR_v1.0.3
+//notes:PvE Roll
+dimwishlist:item=1253087083&perks=106909392,1354429876,2213355989
+dimwishlist:item=1253087083&perks=1087426260,1354429876,2213355989
+dimwishlist:item=1253087083&perks=2420895100,1354429876,2213355989
+dimwishlist:item=2302346155&perks=1087426260,1354429876,2896038713
+dimwishlist:item=2302346155&perks=106909392,1354429876,2896038713
+dimwishlist:item=2302346155&perks=2420895100,1354429876,2896038713
+dimwishlist:item=2302346155&perks=1087426260,3643424744,2896038713
+dimwishlist:item=2302346155&perks=106909392,3643424744,2896038713
+dimwishlist:item=2302346155&perks=2420895100,3643424744,2896038713
 //notes:PvP Roll
-dimwishlist:item=1271343896&perks=3161816588,47981717
+dimwishlist:item=2302346155&perks=2866798147,3511092054
+dimwishlist:item=2302346155&perks=588594999,3511092054
 
 //IKELOS_SMG_v1.0.2
 //notes:PvE Roll
 dimwishlist:item=2222560548&perks=1820235745,3708227201
-dimwishlist:item=2222560548&perks=1820235745,3523296417
 dimwishlist:item=2222560548&perks=4071163871,3708227201
-dimwishlist:item=2222560548&perks=4071163871,3523296417
 //notes:PvP Roll
-dimwishlist:item=2222560548&perks=1140096971,1359896290,1890422124
+dimwishlist:item=2222560548&perks=1359896290,1890422124
+//notes:Legacy PvE Roll
+dimwishlist:item=2222560548&perks=1820235745,3523296417
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+
+//IKELOS_SMG_v1.0.3
+//notes:PvE Roll
+dimwishlist:item=2222560548&perks=1820235745,3708227201
+dimwishlist:item=2222560548&perks=4071163871,3708227201
+dimwishlist:item=2149683300&perks=2779035018,4104185692
+dimwishlist:item=2149683300&perks=2779035018,3708227201
+dimwishlist:item=2149683300&perks=2779035018,2173046394
+dimwishlist:item=2149683300&perks=4071163871,4104185692
+dimwishlist:item=2149683300&perks=4071163871,2173046394
+//notes:PvP Roll
+dimwishlist:item=2222560548&perks=1359896290,1890422124
+dimwishlist:item=2149683300&perks=1359896290,2846385770
+dimwishlist:item=2149683300&perks=2450788523,2846385770
+
+//Widow's Bite
+//notes:PvP Roll
+dimwishlist:item=1271343896&perks=3161816588,47981717
 
 //Death Adder
 //notes:PvE Roll
@@ -3622,6 +3921,40 @@ dimwishlist:item=1911060537&perks=2284787283,2896038713
 dimwishlist:item=1911060537&perks=2284787283,4104185692
 dimwishlist:item=1911060537&perks=2284787283,1771339417
 
+//Lodbrok-C
+//notes:PvE Roll
+dimwishlist:item=2328531378&perks=3523296417,11612903
+dimwishlist:item=2328531378&perks=3523296417,3592538738
+//notes:PvP Roll
+dimwishlist:item=2328531378&perks=1359896290,1015611457
+dimwishlist:item=2328531378&perks=1359896290,1890422124
+
+//Aurvandil FR6
+//notes:PvE Roll
+dimwishlist:item=963710795&perks=1523832109,2978966579
+//notes:PvP Roll
+dimwishlist:item=963710795&perks=1866048759,3511092054
+dimwishlist:item=963710795&perks=280464955,3511092054
+dimwishlist:item=963710795&perks=280464955,4082225868
+
+//Jararaca-3SR
+//notes:PvE Roll
+dimwishlist:item=1851521408&perks=1354429876,2896038713
+dimwishlist:item=1851521408&perks=247725512,124408337
+//notes:PvE/PvP Roll
+dimwishlist:item=1851521408&perks=247725512,1015611457
+//notes:PvP Roll
+dimwishlist:item=1851521408&perks=1428297954,1015611457
+
+//Fioritura-59
+//notes:PvE Roll
+dimwishlist:item=2566006935&perks=691659142,4082225868
+//notes:PvP Roll
+dimwishlist:item=2566006935&perks=2450788523,1015611457
+dimwishlist:item=2566006935&perks=2450788523,588594999
+dimwishlist:item=2566006935&perks=1866048759,588594999
+dimwishlist:item=2566006935&perks=1866048759,1015611457
+
 
 Festival of the Lost
 
@@ -3679,51 +4012,92 @@ The Dawning
 
 //Avalanche
 //notes:PvE Roll
-dimwishlist:item=66875353&perks=1168162263,1546637391
-dimwishlist:item=66875353&perks=3300816228,1546637391
-dimwishlist:item=66875353&perks=3436462433,1546637391
-dimwishlist:item=66875353&perks=1168162263,2848615171
-dimwishlist:item=66875353&perks=3300816228,2848615171
-dimwishlist:item=66875353&perks=3436462433,2848615171
 dimwishlist:item=66875353&perks=1820235745,2848615171
 //notes:PvP Roll
-dimwishlist:item=66875353&perks=2450788523,1890422124
 dimwishlist:item=66875353&perks=3436462433,1890422124
+//notes:Legacy PvE Roll
+dimwishlist:item=66875353&perks=1168162263,2848615171
+dimwishlist:item=66875353&perks=1168162263,1546637391
+//notes:Legacy PvP Roll
+dimwishlist:item=66875353&perks=2450788523,1890422124
+
+//Avalanche (v2)
+//notes:PvE Roll
+dimwishlist:item=66875353&perks=1820235745,2848615171
+//notes:Solar Synergy Roll
+dimwishlist:item=495940989&perks=1820235745,4293542123
+dimwishlist:item=495940989&perks=2010801679,4293542123
+//notes:PvP Roll
+dimwishlist:item=66875353&perks=2450788523,1890422124
+dimwishlist:item=495940989&perks=1195158366,1890422124
+dimwishlist:item=495940989&perks=1359896290,1890422124
 
 //Cold Front
 //notes:PvE Roll
-dimwishlist:item=1506719573&perks=3436462433,3425386926
-dimwishlist:item=1506719573&perks=3436462433,4049631843
 dimwishlist:item=1506719573&perks=1820235745,3425386926
 dimwishlist:item=1506719573&perks=1820235745,4049631843
-dimwishlist:item=1506719573&perks=1820235745,3708227201
-dimwishlist:item=1506719573&perks=3436462433,3708227201
 //notes:PvP Roll
 dimwishlist:item=1506719573&perks=1359896290,4082225868
 dimwishlist:item=1506719573&perks=1359896290,3425386926
-dimwishlist:item=1506719573&perks=3436462433,438098033
+//notes:Legacy PvE Roll
+dimwishlist:item=1506719573&perks=1820235745,3708227201
+dimwishlist:item=1506719573&perks=3436462433,3708227201
+//notes:Legacy PvP Roll
 dimwishlist:item=1506719573&perks=1359896290,438098033
 dimwishlist:item=1506719573&perks=1428297954,438098033
+
+//Cold Front (v2)
+//notes:PvE Roll
+dimwishlist:item=2814093983&perks=1820235745,3425386926
+dimwishlist:item=2814093983&perks=1820235745,4049631843
+dimwishlist:item=2814093983&perks=3108830275,4104185692
+dimwishlist:item=2814093983&perks=1583705720,4049631843
+dimwishlist:item=2814093983&perks=1583705720,4104185692
+dimwishlist:item=2814093983&perks=1820235745,4104185692
+//notes:PvP Roll
+dimwishlist:item=2814093983&perks=1359896290,4082225868
+dimwishlist:item=2814093983&perks=1359896290,3425386926
+dimwishlist:item=2814093983&perks=1428297954,2846385770
+dimwishlist:item=2814093983&perks=1890422124,2846385770
 
 //Glacioclasm
 //notes:PvE Roll
 dimwishlist:item=1030895163&perks=1820235745,1427256713
 dimwishlist:item=1030895163&perks=3161816588,1427256713
 //notes:PvP Roll
-dimwishlist:item=1030895163&perks=3161816588,2213355989
-dimwishlist:item=1030895163&perks=3436462433,2213355989
 dimwishlist:item=1030895163&perks=1645158859,2213355989
-dimwishlist:item=1030895163&perks=2450788523,2213355989
+
+//Glacioclasm (v2)
+//notes:PvE Roll
+dimwishlist:item=3573686365&perks=1820235745,1427256713
+dimwishlist:item=3573686365&perks=3161816588,1427256713
+//notes:Void Synergy Roll
+dimwishlist:item=3573686365&perks=776531651,1427256713
+//notes:PvP Roll
+dimwishlist:item=3573686365&perks=3161816588,1754714824
+dimwishlist:item=3573686365&perks=1645158859,2213355989
+dimwishlist:item=3573686365&perks=1645158859,1754714824
 
 //Zephyr
 //notes:PvE Roll
 dimwishlist:item=3400256755&perks=2590710093,3650930298
 dimwishlist:item=3400256755&perks=1749209109,3650930298
 dimwishlist:item=3400256755&perks=3108830275,3650930298
-dimwishlist:item=3400256755&perks=1749209109,3913600130
-dimwishlist:item=3400256755&perks=2590710093,438098033
-dimwishlist:item=3400256755&perks=2726471870,438098033
-dimwishlist:item=3400256755&perks=3705817207,438098033
+
+//Zephyr (v2)
+//notes:PvE Roll
+dimwishlist:item=396910433&perks=2590710093,3650930298
+dimwishlist:item=396910433&perks=1749209109,3650930298
+dimwishlist:item=396910433&perks=3108830275,3650930298
+dimwishlist:item=396910433&perks=3592538738,3650930298
+
+//Stay Frosty
+//notes:Stasis Synergy Roll
+dimwishlist:item=2812100428&perks=2726471870,124408337
+//notes:PvP Roll
+dimwishlist:item=2812100428&perks=588594999,460017080
+dimwishlist:item=2812100428&perks=2450788523,1015611457
+dimwishlist:item=2812100428&perks=1195158366,1015611457
 
 
 Solstice
@@ -3992,3 +4366,68 @@ dimwishlist:item=3000847393&perks=3523296417,4104185692
 dimwishlist:item=3000847393&perks=3523296417,2610012052
 //notes:PvP Roll
 dimwishlist:item=3000847393&perks=2451262963,2610012052
+
+
+//Spire of the Watcher
+
+//Seventh Seraph Carbine (v2)
+//notes:PvE Roll
+dimwishlist:item=4070357005&perks=691659142,4082225868
+dimwishlist:item=4070357005&perks=1523832109,4104185692
+dimwishlist:item=4070357005&perks=1523832109,365154968
+dimwishlist:item=4070357005&perks=1354429876,365154968
+//notes:PvP Roll
+dimwishlist:item=4070357005&perks=1359896290,3511092054
+dimwishlist:item=4070357005&perks=1359896290,2846385770
+dimwishlist:item=4070357005&perks=1359896290,588594999
+dimwishlist:item=4070357005&perks=1359896290,365154968
+
+//Seventh Seraph Officer Revolver (v2)
+dimwishlist:item=-1555959830A husk of its old self
+
+//Liminal Vigil
+//notes:PvE Roll
+dimwishlist:item=3138208275&perks=4071163871,3708227201
+dimwishlist:item=3138208275&perks=691659142,4082225868
+//notes:Stasis Synergy Roll
+dimwishlist:item=3138208275&perks=124408337,4082225868
+dimwishlist:item=3138208275&perks=124408337,3708227201
+//notes:PvP Roll
+dimwishlist:item=3138208275&perks=1890422124,1015611457
+dimwishlist:item=3138208275&perks=1890422124,4082225868
+dimwishlist:item=3138208275&perks=1890422124,3047969693
+dimwishlist:item=3138208275&perks=1890422124,2846385770
+
+//Wilderflight
+//notes:PvE Roll
+dimwishlist:item=2306182339&perks=3301904089,3523296417,1546637391
+dimwishlist:item=2306182339&perks=3301904089,3108830275,4104185692
+dimwishlist:item=2306182339&perks=3301904089,776531651,4104185692
+dimwishlist:item=2306182339&perks=3301904089,3300816228,1546637391
+dimwishlist:item=2306182339&perks=3301904089,3300816228,4104185692
+//notes:High End PvE Roll
+dimwishlist:item=2306182339&perks=3032599245,960810156,1683379515
+dimwishlist:item=2306182339&perks=3032599245,3300816228,1683379515
+//notes:Void Synergy Roll
+dimwishlist:item=2306182339&perks=3301904089,776531651,4104185692
+
+//Long Arm
+//notes:PvE Roll
+dimwishlist:item=8293111&perks=3592538738,11612903
+dimwishlist:item=8293111&perks=3592538738,2848615171
+dimwishlist:item=8293111&perks=1820235745,11612903
+dimwishlist:item=8293111&perks=1820235745,2848615171
+dimwishlist:item=8293111&perks=3592538738,3038247973
+//notes:PvE/PvP Roll
+dimwishlist:item=8293111&perks=247725512,3038247973
+//notes:PvP Roll
+dimwishlist:item=8293111&perks=1866048759,3038247973
+dimwishlist:item=8293111&perks=1866048759,47981717
+
+//Terminus Horizon
+//notes:PvE Roll
+dimwishlist:item=487205709&perks=2848615171,3592538738
+dimwishlist:item=487205709&perks=671806388,2173046394
+dimwishlist:item=487205709&perks=3523296417,11612903
+dimwishlist:item=487205709&perks=3523296417,3592538738
+dimwishlist:item=487205709&perks=3400784728,365154968
