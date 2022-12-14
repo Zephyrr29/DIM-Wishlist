@@ -2,7 +2,7 @@ If you need to contact me about anything feel free to DM me on Discord, **Zeph#5
 
 ## Last update: December 13th, 2022
 - Added all new weapons added with **Season of the Seraph** and **Spire of the Watcher**.
-- Updated rolls for all **Deep Stone Crypt**, **IKELOS v1.0.3**, and **Dawning** weapons as well as **Hung Jury SR4**.
+- Updated rolls for all **Deep Stone Crypt**, **IKELOS v1.0.3**, and **Dawning** weapons as well as **Hung Jury SR4** and, **Seventh Seraph Carbine**.
 
 ## How to add to DIM:
 
