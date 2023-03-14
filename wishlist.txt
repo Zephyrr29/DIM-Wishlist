@@ -1996,6 +1996,27 @@ dimwishlist:item=3107853529&perks=3436462433,588594999
 dimwishlist:item=3107853529&perks=957782887,588594999
 dimwishlist:item=3107853529&perks=3436462433,706527188
 
+//Imperial Decree
+//notes:PvP Roll
+dimwishlist:item=318443586&perks=4071163871,47981717
+dimwishlist:item=318443586&perks=3161816588,47981717
+
+//Throne-Cleaver
+//notes:PvE Roll
+dimwishlist:item=3371413059&perks=3108830275,1546637391
+//notes: Solar Synergy Roll
+dimwishlist:item=3371413059&perks=3108830275,4293542123
+
+//Goldtusk
+//notes:PvE Roll
+dimwishlist:item=3371413057&perks=1749209109,3913600130
+
+//Death's Razor
+//notes:PvE Roll
+dimwishlist:item=3371413056&perks=1749209109,1546637391
+dimwishlist:item=3371413056&perks=1749209109,3913600130
+dimwishlist:item=3371413056&perks=2590710093,2048641572
+
 
 Trials of Osiris
 
