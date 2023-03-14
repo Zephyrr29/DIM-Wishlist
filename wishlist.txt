@@ -86,7 +86,7 @@ dimwishlist:item=2978226043&perks=3643424744,3592538738
 dimwishlist:item=2978226043&perks=3523296417,1782407750
 dimwishlist:item=2978226043&perks=3523296417,2224838837
 dimwishlist:item=2978226043&perks=3523296417,3592538738
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=2978226043&perks=3643424744,4293542123
 dimwishlist:item=2978226043&perks=3523296417,4293542123
 //notes:PvE/PvP Roll
@@ -144,7 +144,7 @@ dimwishlist:item=1509167284&perks=1359896290,3511092054
 dimwishlist:item=2218569744&perks=3700496672,3038247973
 dimwishlist:item=2218569744&perks=3523296417,3038247973
 dimwishlist:item=2218569744&perks=247725512,3038247973
-//notes:Arc Synergy Roll
+//notes: Arc Synergy Roll
 dimwishlist:item=2218569744&perks=3523296417,2173046394
 
 //Brigand's Law
@@ -152,7 +152,7 @@ dimwishlist:item=2218569744&perks=3523296417,2173046394
 dimwishlist:item=1298815317&perks=2779035018,3708227201
 dimwishlist:item=1298815317&perks=4071163871,3708227201
 dimwishlist:item=1298815317&perks=691659142,4082225868
-//notes:Arc Synergy Roll
+//notes: Arc Synergy Roll
 dimwishlist:item=1298815317&perks=2779035018,2173046394
 dimwishlist:item=1298815317&perks=691659142,2173046394
 //notes:PvP Roll
@@ -826,7 +826,7 @@ dimwishlist:item=1937552980&perks=3824105627,3108830275
 dimwishlist:item=1937552980&perks=1048183818,4104185692
 dimwishlist:item=1937552980&perks=1546637391,4104185692
 dimwishlist:item=1937552980&perks=3038247973,4104185692
-//notes:Void Synergy Roll
+//notes: Void Synergy Roll
 dimwishlist:item=1937552980&perks=3824105627,776531651
 //notes:PvP Roll
 dimwishlist:item=1937552980&perks=3038247973,699525795
@@ -841,7 +841,7 @@ dimwishlist:item=1184692845&perks=3824105627,3108830275
 dimwishlist:item=1184692845&perks=1048183818,4104185692
 dimwishlist:item=1184692845&perks=1546637391,4104185692
 dimwishlist:item=1184692845&perks=3038247973,4104185692
-//notes:Void Synergy Roll
+//notes: Void Synergy Roll
 dimwishlist:item=1184692845&perks=3824105627,776531651
 //notes:PvP Roll
 dimwishlist:item=1184692845&perks=3038247973,699525795
@@ -852,7 +852,7 @@ dimwishlist:item=431721920&perks=3038247973,3824105627
 //notes:High End PvE Roll
 dimwishlist:item=431721920&perks=3038247973,4049631843
 dimwishlist:item=431721920&perks=3038247973,2896038713
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=431721920&perks=3038247973,4293542123
 //notes:PvP Roll
 dimwishlist:item=431721920&perks=3038247973,699525795
@@ -864,7 +864,7 @@ dimwishlist:item=291092617&perks=3038247973,3824105627
 //notes:High End PvE Roll
 dimwishlist:item=291092617&perks=3038247973,4049631843
 dimwishlist:item=291092617&perks=3038247973,2896038713
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=291092617&perks=3038247973,4293542123
 //notes:PvP Roll
 dimwishlist:item=291092617&perks=3038247973,699525795
@@ -922,7 +922,7 @@ dimwishlist:item=1321506184&perks=3108830275,3824105627
 dimwishlist:item=1321506184&perks=3108830275,557221067
 dimwishlist:item=1321506184&perks=1583705720,3824105627
 dimwishlist:item=1321506184&perks=1583705720,557221067
-//notes:Stasis Synergy Roll
+//notes: Stasis Synergy Roll
 dimwishlist:item=1321506184&perks=3108830275,124408337
 dimwishlist:item=1321506184&perks=1583705720,124408337
 
@@ -932,7 +932,7 @@ dimwishlist:item=3248429089&perks=3108830275,3824105627
 dimwishlist:item=3248429089&perks=3108830275,557221067
 dimwishlist:item=3248429089&perks=1583705720,3824105627
 dimwishlist:item=3248429089&perks=1583705720,557221067
-//notes:Stasis Synergy Roll
+//notes: Stasis Synergy Roll
 dimwishlist:item=3248429089&perks=3108830275,124408337
 dimwishlist:item=3248429089&perks=1583705720,124408337
 
@@ -1227,7 +1227,7 @@ Trustee
 //notes:PvE Roll
 dimwishlist:item=1392919471&perks=247725512,2896038713
 dimwishlist:item=1392919471&perks=1523832109,2896038713
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=1392919471&perks=1523832109,4293542123
 dimwishlist:item=1392919471&perks=247725512,4293542123
 //notes:PvP Roll
@@ -1938,7 +1938,7 @@ dimwishlist:item=4277547616&perks=1820235745,2848615171
 Opulent Weapons
 
 //The Epicurean
-//notes:Void Synergy Roll
+//notes: Void Synergy Roll
 dimwishlist:item=2263839058&perks=2779035018,776531651
 //notes:PvP Roll
 dimwishlist:item=2263839058&perks=3436462433,2846385770
@@ -1950,7 +1950,7 @@ dimwishlist:item=2194955522&perks=2869569095,3425386926
 dimwishlist:item=2194955522&perks=2869569095,557221067
 dimwishlist:item=2194955522&perks=2779035018,3425386926
 dimwishlist:item=2194955522&perks=2779035018,557221067
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=2194955522&perks=2869569095,4293542123
 dimwishlist:item=2194955522&perks=2779035018,4293542123
 
@@ -1970,7 +1970,7 @@ dimwishlist:item=3055790362&perks=699525795,47981717
 //notes:PvE Roll
 dimwishlist:item=502356570&perks=3592538738,3425386926
 dimwishlist:item=502356570&perks=3592538738,4082225868
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=502356570&perks=3592538738,4293542123
 //notes:PvP Roll
 dimwishlist:item=502356570&perks=588594999,1546637391
@@ -1981,7 +1981,7 @@ dimwishlist:item=502356570&perks=588594999,4082225868
 //notes:PvE Roll
 dimwishlist:item=2490988246&perks=3108830275,3708227201
 dimwishlist:item=2490988246&perks=4071163871,3708227201
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=2490988246&perks=3108830275,4293542123
 dimwishlist:item=2490988246&perks=4071163871,4293542123
 dimwishlist:item=2490988246&perks=1631667848,4293542123
@@ -2941,22 +2941,16 @@ dimwishlist:item=4162642204&perks=3301904089,1556840489,4104185692
 dimwishlist:item=4162642204&perks=3301904089,2010801679,4104185692
 
 //Mindbender's Ambition
-//notes:Solar Synergy Roll
-dimwishlist:item=1094005544&perks=691659142,4293542123
 //notes:PvP Roll
 dimwishlist:item=1094005544&perks=4071163871,2451262963
 dimwishlist:item=1094005544&perks=4071163871,4082225868
 
 //Mindbender's Ambition (Adept)
-//notes:Solar Synergy Roll
-dimwishlist:item=912150785&perks=691659142,4293542123
 //notes:PvP Roll
 dimwishlist:item=912150785&perks=4071163871,2451262963
 dimwishlist:item=912150785&perks=4071163871,4082225868
 
 //Mindbender's Ambition (v2)
-//notes:Solar Synergy Roll
-dimwishlist:item=1586231351&perks=691659142,4293542123
 //notes:PvP Roll
 dimwishlist:item=1586231351&perks=4071163871,2451262963
 dimwishlist:item=1586231351&perks=4071163871,4082225868
@@ -2964,8 +2958,6 @@ dimwishlist:item=1586231351&perks=3436462433,2451262963
 dimwishlist:item=1586231351&perks=3436462433,4082225868
 
 //Mindbender's Ambition (Adept) (v2)
-//notes:Solar Synergy Roll
-dimwishlist:item=2074041946&perks=691659142,4293542123
 //notes:PvP Roll
 dimwishlist:item=2074041946&perks=4071163871,2451262963
 dimwishlist:item=2074041946&perks=4071163871,4082225868
@@ -3479,7 +3471,7 @@ dimwishlist:item=2591241074&perks=3700496672,2848615171
 dimwishlist:item=2591241074&perks=201365942,3365897133
 dimwishlist:item=2591241074&perks=201365942,2652708987
 dimwishlist:item=2591241074&perks=201365942,2848615171
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=2591241074&perks=201365942,4293542123
 //notes:High End PvE Roll
 dimwishlist:item=2591241074&perks=3700496672,3365897133
@@ -4440,7 +4432,7 @@ dimwishlist:item=4019668921&perks=3400784728,3038247973
 dimwishlist:item=4019668921&perks=3400784728,2896038713
 dimwishlist:item=4019668921&perks=1168162263,2848615171
 dimwishlist:item=4019668921&perks=3700496672,3038247973
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=4019668921&perks=1168162263,4293542123
 
 //Gallu RR3
@@ -4607,7 +4599,7 @@ dimwishlist:item=2869466318&perks=3161816588,1015611457
 dimwishlist:item=528834068&perks=1359896290,699525795
 
 //Jurassic Green
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=2603335652&perks=1820235745,4293542123
 //notes:PvE Roll
 dimwishlist:item=2261046232&perks=1820235745,4104185692
@@ -4652,7 +4644,7 @@ dimwishlist:item=66875353&perks=2450788523,1890422124
 //Avalanche (v2)
 //notes:PvE Roll
 dimwishlist:item=66875353&perks=1820235745,2848615171
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=495940989&perks=1820235745,4293542123
 dimwishlist:item=495940989&perks=2010801679,4293542123
 //notes:PvP Roll
@@ -4699,7 +4691,7 @@ dimwishlist:item=1030895163&perks=1645158859,2213355989
 //notes:PvE Roll
 dimwishlist:item=3573686365&perks=1820235745,1427256713
 dimwishlist:item=3573686365&perks=3161816588,1427256713
-//notes:Void Synergy Roll
+//notes: Void Synergy Roll
 dimwishlist:item=3573686365&perks=776531651,1427256713
 //notes:PvP Roll
 dimwishlist:item=3573686365&perks=3161816588,1754714824
@@ -4720,7 +4712,7 @@ dimwishlist:item=396910433&perks=3108830275,3650930298
 dimwishlist:item=396910433&perks=3592538738,3650930298
 
 //Stay Frosty
-//notes:Stasis Synergy Roll
+//notes: Stasis Synergy Roll
 dimwishlist:item=2812100428&perks=2726471870,124408337
 //notes:PvP Roll
 dimwishlist:item=2812100428&perks=588594999,460017080
@@ -4742,7 +4734,7 @@ dimwishlist:item=2591111628&perks=2451262963,3673922083
 //Something New
 //notes:PvE Roll
 dimwishlist:item=1856262127&perks=3592538738,3523296417
-//notes:Stasis Synergy Roll
+//notes: Stasis Synergy Roll
 dimwishlist:item=1856262127&perks=3592538738,124408337
 
 
@@ -4797,7 +4789,7 @@ dimwishlist:item=548958835&perks=2779035018,2610012052
 dimwishlist:item=548958835&perks=2779035018,4104185692
 dimwishlist:item=548958835&perks=1048183818,4049631843
 dimwishlist:item=548958835&perks=1048183818,4104185692
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=548958835&perks=1820235745,4293542123
 dimwishlist:item=548958835&perks=2779035018,4293542123
 //notes:PvP Roll
@@ -4829,7 +4821,7 @@ dimwishlist:item=2708806099&perks=1168162263,1015611457
 dimwishlist:item=2708806099&perks=3523296417,1015611457
 //notes:PvE Roll
 dimwishlist:item=2708806099&perks=1168162263,11612903
-//notes:Solar Synergy Roll
+//notes: Solar Synergy Roll
 dimwishlist:item=2708806099&perks=3523296417,4293542123
 dimwishlist:item=2708806099&perks=691659142,4293542123
 //notes:Legacy PvE Roll
@@ -4991,7 +4983,7 @@ dimwishlist:item=3000847393&perks=2779035018,4104185692
 dimwishlist:item=3000847393&perks=2779035018,3425386926
 dimwishlist:item=3000847393&perks=3523296417,11612903
 dimwishlist:item=3000847393&perks=3523296417,4104185692
-//notes:Void Synergy Roll
+//notes: Void Synergy Roll
 dimwishlist:item=3000847393&perks=3523296417,2610012052
 //notes:PvP Roll
 dimwishlist:item=3000847393&perks=2451262963,2610012052
@@ -5020,7 +5012,7 @@ dimwishlist:item=1555959830&perks=2846385770,438098033
 //notes:PvE Roll
 dimwishlist:item=3138208275&perks=4071163871,3708227201
 dimwishlist:item=3138208275&perks=691659142,4082225868
-//notes:Stasis Synergy Roll
+//notes: Stasis Synergy Roll
 dimwishlist:item=3138208275&perks=124408337,4082225868
 dimwishlist:item=3138208275&perks=124408337,3708227201
 //notes:PvP Roll
@@ -5039,7 +5031,7 @@ dimwishlist:item=2306182339&perks=3301904089,3300816228,4104185692
 //notes:High End PvE Roll
 dimwishlist:item=2306182339&perks=3032599245,960810156,1683379515
 dimwishlist:item=2306182339&perks=3032599245,3300816228,1683379515
-//notes:Void Synergy Roll
+//notes: Void Synergy Roll
 dimwishlist:item=2306182339&perks=3301904089,776531651,4104185692
 
 //Long Arm
