@@ -4467,7 +4467,6 @@ dimwishlist:item=617501162&perks=2866798147,957782887
 //notes:PvP Roll
 dimwishlist:item=1916287826&perks=588594999,1365187766
 dimwishlist:item=1916287826&perks=588594999,4082225868
-dimwishlist:item=1916287826&perks=1821614984,4082225868
 
 //Pizzicato-22
 //notes:PvE Roll
@@ -4966,8 +4965,6 @@ dimwishlist:item=2026087437&perks=3032599245,3300816228,2978966579
 dimwishlist:item=2026087437&perks=3032599245,3300816228,960810156
 //notes:PvP Roll
 dimwishlist:item=2026087437&perks=3300816228,438098033
-//Trashlist
-dimwishlist:item=-2026087437&perks=409831596,2978966579Cannot proc Chill Clip
 
 //New Purpose
 //notes:PvE Roll
