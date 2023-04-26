@@ -1,7 +1,7 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
 ## Last update: April 25th, 2023
-- Added roles for the new **Guardian Games** scout rifle, **Taraxippos**.
+- Added rolls for the new **Guardian Games** scout rifle, **Taraxippos**.
 
 ## How to add to DIM:
 
