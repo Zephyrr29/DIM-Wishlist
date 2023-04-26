@@ -1,10 +1,7 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: March 14th, 2023
-- Added all new weapons added with **Lightfall** and **Season of Defiance**.
-- Added rolls for **Imperial Decree**, **Throne-Cleaver**, **Goldtusk**, and **Death's Razor**.
-- Updated rolls for various **Nightfall**, **Trials**, and **Iron Banner** weapons.
-- Added subclass element icons to tags for any subclass synergy rolls.
+## Last update: April 25th, 2023
+- Added roles for the new **Guardian Games** scout rifle, **Taraxippos**.
 
 ## How to add to DIM:
 
