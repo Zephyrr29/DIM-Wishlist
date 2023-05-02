@@ -4762,15 +4762,15 @@ Guardian Games
 
 //Taraxippos
 //notes:PvE Roll
-dimwishlist:item=3234246770&perks=1354429876,2896038713
-dimwishlist:item=3234246770&perks=1354429876,3038247973
+dimwishlist:item=1389546626&perks=1354429876,2896038713
+dimwishlist:item=1389546626&perks=1354429876,3038247973
 //notes: Strand Synergy Roll
-dimwishlist:item=1856262127&perks=1168162263,831391274
-dimwishlist:item=1856262127&perks=1354429876,831391274
+dimwishlist:item=1389546626&perks=1168162263,831391274
+dimwishlist:item=1389546626&perks=1354429876,831391274
 //notes:PvP Roll
-dimwishlist:item=1856262127&perks=2866798147,1015611457
-dimwishlist:item=1856262127&perks=2387244414,1015611457
-dimwishlist:item=1856262127&perks=588594999,1015611457
+dimwishlist:item=1389546626&perks=2866798147,1015611457
+dimwishlist:item=1389546626&perks=2387244414,1015611457
+dimwishlist:item=1389546626&perks=588594999,1015611457
 
 //The Title
 //notes:Legacy PvE Roll
