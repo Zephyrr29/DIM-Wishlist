@@ -1,7 +1,10 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
-## Last update: April 25th, 2023
-- Added rolls for the new **Guardian Games** scout rifle, **Taraxippos**.
+## Last update: May 29th, 2023
+- Added rolls for all new **Season of the Deep** weapons.
+- Added rolls for all new **Ghosts of the Deep** weapons.
+- Updated rolls for all **Last Wish** weapons.
+- Updated rolls for all **Solstice** weapons.
 
 ## How to add to DIM:
 
