@@ -5456,11 +5456,15 @@ Ghosts of the Deep
 dimwishlist:item=1125217994&perks=3108830275,1015611457
 dimwishlist:item=1125217994&perks=1556840489,1015611457
 dimwishlist:item=1125217994&perks=3523296417,1015611457
+dimwishlist:item=1125217994&perks=3108830275,3201496230
+dimwishlist:item=1125217994&perks=1556840489,3201496230
+dimwishlist:item=1125217994&perks=3523296417,3201496230
 
 //Greasy Luck
 //notes:PvE Roll
 dimwishlist:item=1757202961&perks=1966281507,1782407750
 dimwishlist:item=1757202961&perks=1966281507,2224838837
+//dimwishlist:item=1757202961&perks=1966281507,3201496230
 //notes: Solar Synergy Roll
 dimwishlist:item=1757202961&perks=1966281507,4293542123
 //notes:PvP Roll
