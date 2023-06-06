@@ -5464,7 +5464,6 @@ dimwishlist:item=1125217994&perks=3523296417,3201496230
 //notes:PvE Roll
 dimwishlist:item=1757202961&perks=1966281507,1782407750
 dimwishlist:item=1757202961&perks=1966281507,2224838837
-//dimwishlist:item=1757202961&perks=1966281507,3201496230
 //notes: Solar Synergy Roll
 dimwishlist:item=1757202961&perks=1966281507,4293542123
 //notes:PvP Roll
