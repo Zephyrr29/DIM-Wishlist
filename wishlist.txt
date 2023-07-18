@@ -5135,7 +5135,7 @@ dimwishlist:item=3240434620&perks=2779035018,124408337
 dimwishlist:item=3240434620&perks=3592538738,124408337
 dimwishlist:item=3240434620&perks=1820235745,124408337
 
-//solstice rocket_launcher0 name
+//Crowning Duologue
 //this gun is so comically shit lmfao
 dimwishlist:item=-3256453690No notable rolls
 
