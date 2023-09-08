@@ -1,10 +1,10 @@
 If you need to contact me about anything feel free to DM me on Discord, **Zeph#5621**
 
 ## Last update: May 29th, 2023
-- Added rolls for all new **Season of the Deep** weapons.
-- Added rolls for all new **Ghosts of the Deep** weapons.
-- Updated rolls for all **Last Wish** weapons.
-- Updated rolls for all **Solstice** weapons.
+- Added rolls for all new **Season of the Witch** weapons.
+- Added rolls for all new **Crota's End** weapons and their Adept variants.
+- Updated rolls for all **Festival of the Lost** weapons.
+- Removed all rolls containing **Rangefinder**.
 
 ## How to add to DIM:
 
